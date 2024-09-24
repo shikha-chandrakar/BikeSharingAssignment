@@ -43,5 +43,5 @@ The linear regression model provides insightful interpretations about the factor
 
 
 ## Contact
-Created by Shikkha Chandrakar - feel free to contact us!
+Created by Shikkha Chandrakar - feel free to contact!
 
